@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+
+<response>
+
+<collectdtmf l="1" t="#" o="10000">
+
+<playtext>Press 1 if you are above 21 or 2 if you are below 21</playtext>
+
+</collectdtmf>
+
+</response>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+
+<response>
+<collectdtmf l="1" t="#" o="10000">
+
+<playtext>Please enter 1 if you are male, or 2 for female</playtext>
+
+</collectdtmf>
+
+</response>
