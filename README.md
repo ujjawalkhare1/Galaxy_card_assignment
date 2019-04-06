@@ -1,5 +1,16 @@
 # Galaxy_card_assignment
 
+
+
+<h2> Using App on Kookoo </h2>
+<br />
+
+(i) Call anyone of these numbers 040-39411020, 080-39411020, 022-39411020, 033-39411020, 044-39411020, 011-39411020, 020-39411020. <br />
+(ii) When asked for PIN, enter: <span style="font-weight: bold; font-size: 20px;">47270</span><br />
+(iii) Follow he Instructions carefully. <br />
+
+
+
 <h2> Method of Deployment </h2>
 <br />
 
@@ -8,11 +19,4 @@
 <br />
 (iii) The server is running on localhost:3000
 <br /> 
-
-<h1> Using App on Kookoo </h1>
-<br />
-
-(i) Call anyone of these numbers 040-39411020, 080-39411020, 022-39411020, 033-39411020, 044-39411020, 011-39411020, 020-39411020. <br />
-(ii) When asked for PIN, enter: <span><h2>47270</h2></span><br />
-(iii) Follow he Instructions carefully. <br />
 
